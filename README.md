@@ -827,3 +827,43 @@ struct ElevationView: View {
 #Preview {
     ComponentsGalleryScreen()
 }
+
+## Visual References
+
+This repository includes comprehensive visual documentation to help you build consistent UIs:
+
+### 📸 Visual Guides
+- **[VISUAL_GUIDE.md](VISUAL_GUIDE.md)** - Complete component reference with screenshots
+- **[GETTING_STARTED.md](GETTING_STARTED.md)** - Quick onboarding guide
+
+### 🎨 Design Assets
+- **[Color Palette](Assets/Colors/)** - Color swatches and semantic token mapping
+- **[Component Examples](Assets/Components/)** - Screenshots of all components in different states
+- **[Screen Examples](Assets/Screens/)** - Full screen implementations
+- **[Pattern Examples](Assets/Patterns/)** - UI patterns (empty states, errors, success, etc.)
+
+### 📋 Templates
+- **[Screen Template](Templates/ScreenTemplate.swift)** - Start here for new screens
+- **[Component Template](Templates/ComponentTemplate.swift)** - Start here for new components
+- **[Form Template](Templates/FormTemplate.swift)** - For form implementations
+
+### 💡 Examples
+- **[Onboarding Screen](Examples/OnboardingScreen.swift)** - Complete onboarding flow
+- **[Messaging Screen](Examples/MessagingScreen.swift)** - Messaging implementation
+- **[Component Showcase](Examples/ComponentShowcase.swift)** - All components in action
+
+## Using This as a Template
+
+When creating a new project, clone this repository to inherit:
+
+✅ Design system tokens (colors, typography, spacing)  
+✅ Reusable components  
+✅ Visual guidelines  
+✅ Complete examples  
+✅ Accessibility best practices  
+✅ SwiftUI previews  
+
+```bash
+git clone https://github.com/davekodinsky-IH/IH-design-playground-ios.git my-new-project
+cd my-new-project
+git checkout -b feature/my-feature
