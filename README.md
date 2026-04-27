@@ -867,3 +867,8 @@ When creating a new project, clone this repository to inherit:
 git clone https://github.com/davekodinsky-IH/IH-design-playground-ios.git my-new-project
 cd my-new-project
 git checkout -b feature/my-feature
+
+## Design System
+View the complete design system in Figma:
+[![Figma Design System][(https://img.shields.io/badge/Figma-View%20Design%20System-blue?logo=figma)](https://figma.com/file/YOUR_FILE_ID)](https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=190-88687)
+
