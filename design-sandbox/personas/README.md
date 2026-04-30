@@ -11,4 +11,4 @@ Store **design-safe** persona summaries here so Cursor can read them without hun
 ## Using personas in chat
 
 - Mention `@design-sandbox/personas/OVERVIEW.md` when you want every persona considered.
-- Mention a specific file (e.g. `@design-sandbox/personas/persona-primary-care-seeker.md`) for targeted scenarios.
+- Mention a specific file (e.g. `@design-sandbox/personas/persona-caregiver-multi-dependent.md`) for targeted scenarios.
