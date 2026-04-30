@@ -1,0 +1,18 @@
+---
+description: Ground design exploration in IH DS, personas, and app visual language
+alwaysApply: true
+---
+
+# IH design playground — sandbox defaults
+
+This repo is a **design-team sandbox**. When helping with layout, flows, components, copy, or UX experiments:
+
+1. **Design system** — Prefer the canonical **Anatomy – IH Design System** Figma file and the **ih-figma-ds-visual-refs** skill (official Figma MCP: `get_metadata`, `get_design_context`, `get_screenshot`). Prefer semantic tokens and Code Connect hints over guessed hex or spacing.
+
+2. **Personas** — Before recommending UX decisions, read summaries under `design-sandbox/personas/` (start with `OVERVIEW.md` and any persona files present).
+
+3. **Look and feel** — Align tone, density, navigation, and patterns with `design-sandbox/app-visual-language.md`. If that file is still a template, say what is missing and suggest concrete edits rather than assuming product specifics.
+
+4. **Scope** — Favor small, testable experiments (clear scenario, success criteria, DS citations). Avoid large speculative refactors unless the user asks for them.
+
+5. **Privacy** — Do not paste secrets or PHI into repo files; keep sandbox content design-safe.
