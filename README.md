@@ -2,6 +2,12 @@
 
 Design playground and reference work for the Included Health Design System on iOS.
 
+**Home:** [ConsultingMD/IH-design-playground-ios](https://github.com/ConsultingMD/IH-design-playground-ios) on GitHub.
+
+```bash
+git clone https://github.com/ConsultingMD/IH-design-playground-ios.git
+```
+
 ---
 
 ## Design team sandbox (Cursor)
