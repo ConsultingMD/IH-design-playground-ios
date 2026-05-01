@@ -58,7 +58,7 @@ Our system sets strong foundations while allowing flexibility where it matters. 
 
 ### Figma (Brand Assets \- Foundations)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35941-18970&p=f&t=NTm7uNidWw2XAsH0-0
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=3880-99586&p=f&t=hFHAtvUkIh0vAEkc-0
 
 ---
 
