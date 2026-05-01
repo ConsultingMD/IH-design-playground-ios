@@ -745,7 +745,7 @@ Usage notes:
 
 ### Figma (Accordion \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=3880-189500
 
 ---
 
@@ -753,13 +753,15 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Accumulator \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=39232-1704
 
 ---
 
 ## Avatars
 
-### Figma (Avatars \- Components) (https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=36593-12584&t=wsnXwl8rOJXa2DXu-0)
+### Figma (Avatars \- Components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=3373-100378
 
 ### Guidance
 
@@ -821,7 +823,7 @@ Do not mix multiple, competing meanings in a single avatar (for example, both Do
 
 ### Figma (Badges \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=22114-965
 
 ### Guidance
 
@@ -953,7 +955,7 @@ Badges should be small and unobtrusive but high enough contrast to be visible.
 
 ### Figma (Banner Provider \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=36992-21634
 
 ### Guidance
 
@@ -963,7 +965,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Bottom Tab Bar \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=7959-112652
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=13628-48873
 
 ### Guidance
 
@@ -973,7 +975,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Button \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=37970-6147
 
 ### Guidance
 
@@ -983,7 +985,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Button Dock \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=15216-55060
 
 ### Guidance
 
@@ -993,7 +995,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Calendar \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=3882-100366
 
 ### Guidance
 
@@ -1003,7 +1005,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Card \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=16662-50
 
 ### Guidance
 
@@ -1013,7 +1015,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Card Carousel \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=17117-66499
 
 ### Guidance
 
@@ -1023,7 +1025,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Carousel \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=36815-7882
 
 ### Guidance
 
@@ -1033,7 +1035,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Care Filters \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=15216-54764
 
 ### Guidance
 
@@ -1043,7 +1045,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Check Box \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=13563-6623
 
 ### Guidance
 
@@ -1053,7 +1055,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Chips \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=38041-4029
 
 ### Guidance
 
@@ -1063,7 +1065,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Contact Module \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=6193-110579
 
 ### Guidance
 
@@ -1073,7 +1075,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Coverage Module \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=36992-12194
 
 ### Guidance
 
@@ -1083,7 +1085,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Data Input \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=13577-62822
 
 ### Guidance
 
@@ -1093,7 +1095,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Dependent Picker \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=10047-65742
 
 ### Guidance
 
@@ -1103,7 +1105,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Dividers \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=36264-20679
 
 ### Guidance
 
@@ -1113,7 +1115,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Dropdown \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=13563-7278
 
 ### Guidance
 
@@ -1123,7 +1125,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Fair Price Indicator \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=2414-97871
 
 ### Guidance
 
@@ -1133,7 +1135,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Footer \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=37090-3701
 
 ### Guidance
 
@@ -1228,7 +1230,7 @@ Both variants:
 
 ### Figma (Link \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=16911-79707
 
 ### Guidance
 
@@ -1238,7 +1240,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (List Item \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=19874-827
 
 ### Guidance
 
@@ -1248,7 +1250,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Loader \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=194-92527
 
 ### Guidance
 
@@ -1258,7 +1260,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Map \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=1037-98466
 
 ### Guidance
 
@@ -1268,7 +1270,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Maximum Summary \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=13576-60078
 
 ### Guidance
 
@@ -2077,7 +2079,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Modals \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=179-103844
 
 ### Guidance
 
@@ -2107,7 +2109,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Navigation Secondary (Native) \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=36992-16372
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=13629-105909
 
 ### Guidance
 
@@ -2117,7 +2119,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Navigation Utility \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=38022-4028
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=36992-37847
 
 ### Guidance
 
@@ -2137,7 +2139,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Option Button \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=13565-57939
 
 ### Guidance
 
@@ -2147,7 +2149,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Payments \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=37189-28255
 
 ### Guidance
 
@@ -2157,7 +2159,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Pharmacy Card \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=33891-1663
 
 ### Guidance
 
@@ -2167,7 +2169,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Photo Hero \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=15216-55059
 
 ### Guidance
 
@@ -2177,7 +2179,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Phone Input \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=22122-870
 
 ### Guidance
 
@@ -2187,7 +2189,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Progress Bar \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=3880-175599
 
 ### Guidance
 
@@ -2197,7 +2199,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Promo Bullets \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=13629-107835
 
 ### Guidance
 
@@ -2207,7 +2209,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Radio Button \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=13563-7071
 
 ### Guidance
 
@@ -2217,7 +2219,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Star Rating \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=36372-12193
 
 ### Guidance
 
@@ -2227,7 +2229,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Search Field \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=17117-67939
 
 ### Guidance
 
@@ -2237,7 +2239,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Secondary Navigation \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=28022-41811
 
 ### Guidance
 
@@ -2247,7 +2249,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Segmented Button \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=3880-176565
 
 ### Guidance
 
@@ -2257,7 +2259,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Sheet \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=38187-17346
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=17117-68084
 
 ### Guidance
 
@@ -2267,7 +2269,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Skeleton Loader \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=13557-4966
 
 ### Guidance
 
@@ -2277,7 +2279,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Slider \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=13563-56786
 
 ### Guidance
 
@@ -2287,7 +2289,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Pharmacy Card \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=33891-1663
 
 ### Guidance
 
@@ -2297,7 +2299,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (SMS Verification \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=39237-1821
 
 ### Guidance
 
@@ -2307,7 +2309,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Table \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=13621-3949
 
 ### Guidance
 
@@ -2317,7 +2319,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Tabs \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=9272-114731
 
 ### Guidance
 
@@ -2327,7 +2329,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Text Area \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=13563-7874
 
 ### Guidance
 
@@ -2337,7 +2339,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Text Field \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=13563-7430
 
 ### Guidance
 
@@ -2347,7 +2349,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Title \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=15256-1098
 
 ### Guidance
 
@@ -2357,7 +2359,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Timeline \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=13557-5329
 
 ### Guidance
 
@@ -2367,7 +2369,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Toast \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=3880-109755
 
 ### Guidance
 
@@ -2379,7 +2381,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Form \- Patterns)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=19445-142469
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=24040-1169
 
 ### Guidance
 
@@ -2454,7 +2456,7 @@ Use **Validate on submit** by default, with Live/Guided validation when it clear
 
 ### Figma (Empty States \- Patterns)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=301-96367
 
 ### Guidance
 
@@ -2488,7 +2490,7 @@ Empty states clarify where content could exist, but currently does not. Unlike e
 
 ### Figma (Success States \- Patterns)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=8369-110832
 
 ### Guidance
 
@@ -2522,7 +2524,7 @@ Success states are discrete steps in a flow—usually longer or higher‑effort 
 
 ### Figma (Error States \- Patterns)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=18974-101989
 
 ### Guidance
 
@@ -2576,6 +2578,10 @@ Error states make problems visible, easy to understand, and helpful to recover f
 ---
 
 ## Do’s and Don’ts
+
+### Figma (Patterns overview)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=36013-40434
 
 #### Do’s
 
