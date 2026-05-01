@@ -17,7 +17,7 @@ This repo is set up so designers can **experiment in Cursor** with consistent co
 | Resource | Location |
 |----------|----------|
 | **Agent defaults** (what the AI should assume) | [`AGENTS.md`](AGENTS.md) |
-| **Always-on guidance** | [`.cursor/rules/design-team-sandbox.mdc`](.cursor/rules/design-team-sandbox.mdc), [`.cursor/rules/ih-design-spec-always.mdc`](.cursor/rules/ih-design-spec-always.mdc) (**loads `design.md` into Agent context**) |
+| **Always-on guidance** | [`.cursor/rules/design-team-sandbox.mdc`](.cursor/rules/design-team-sandbox.mdc), [`.cursor/rules/ih-design-spec-always.mdc`](.cursor/rules/ih-design-spec-always.mdc) (**loads [`DESIGN_AGENT_CORE.md`](design-sandbox/DESIGN_AGENT_CORE.md)** — compact DS identity; full spec remains [`design.md`](design-sandbox/design.md)) |
 | **Design system spec** (written source of truth for this repo; read first) | [`design-sandbox/design.md`](design-sandbox/design.md) |
 | **Personas + visual language hub** | [`design-sandbox/README.md`](design-sandbox/README.md) |
 | **App look & feel** (fill in for your product) | [`design-sandbox/app-visual-language.md`](design-sandbox/app-visual-language.md) |

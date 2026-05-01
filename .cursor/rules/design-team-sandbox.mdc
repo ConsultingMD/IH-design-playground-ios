@@ -7,7 +7,7 @@ alwaysApply: true
 
 This repo is a **design-team sandbox**. When helping with layout, flows, components, copy, or UX experiments:
 
-1. **Source of truth (always start here)** — Read **`design-sandbox/design.md`** first when the task involves IH design principles, foundations, components, patterns, or DS rules. Treat it as the authoritative **written** spec for this workspace; cite sections from it before improvising.
+1. **Design system identity (always in context)** — **`design-sandbox/DESIGN_AGENT_CORE.md`** is attached via rule; use it so designers don’t restate basics. For **full** rules, tables, and long component/messaging copy, read **`design-sandbox/design.md`** when the task needs that depth (see **`DESIGN_AGENT_CORE.md`** → “When to open the full spec”).
 
 2. **Figma / Anatomy (visual and gaps)** — After **`design.md`**, use the canonical **Anatomy – IH Design System** file via **ih-figma-ds-visual-refs** (official Figma MCP: `get_metadata`, `get_design_context`, `get_screenshot`) for visuals, variants, undiscovered nodes, and Code Connect. Prefer semantic tokens and Code Connect hints over guessed hex or spacing. If **`design.md`** and Figma disagree, flag the conflict for a human; default to **`design.md`** for prose rules stated only there.
 

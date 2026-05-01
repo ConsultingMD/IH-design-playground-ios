@@ -2,8 +2,8 @@
 name: ih-design-sandbox-context
 description: >-
   Ground exploratory design work in the IH design playground. Always anchor on
-  design-sandbox/design.md first, then personas, app visual language, and
-  Anatomy Figma references. Use when the user wants to brainstorm flows, compare
+  DESIGN_AGENT_CORE.md (always on), then design.md when deep detail is needed,
+  personas, app visual language, and Anatomy Figma references. Use when the user wants to brainstorm flows, compare
   variants, prototype UX copy, or test ideas in this repo’s sandbox without
   drifting from DS constraints.
 ---
@@ -14,14 +14,15 @@ description: >-
 
 Keep **open-ended** design work reviewable and on-brand by chaining:
 
-1. **Written DS spec** (`design-sandbox/design.md`) — **start here:** principles, foundations, components, patterns, agent rules, curated Anatomy links (repo source of truth for written guidance).
-2. **Personas** (`design-sandbox/personas/`)
-3. **Visual language** (`design-sandbox/app-visual-language.md`)
-4. **Figma / Anatomy** (skill **ih-figma-ds-visual-refs** + official Figma MCP) — visuals, variants, nodes not spelled out in **`design.md`**, Code Connect.
+1. **Compact DS core** (`design-sandbox/DESIGN_AGENT_CORE.md`) — already in context; use for defaults and inventories.
+2. **Full written spec** (`design-sandbox/design.md`) — **open when needed:** foundations tables, per-component/messaging/patterns prose, Figma URLs (see “When to open” in **`DESIGN_AGENT_CORE.md`**).
+3. **Personas** (`design-sandbox/personas/`)
+4. **Visual language** (`design-sandbox/app-visual-language.md`)
+5. **Figma / Anatomy** (skill **ih-figma-ds-visual-refs** + official Figma MCP) — visuals, variants, Code Connect.
 
 ## Before proposing solutions
 
-1. Read **`design-sandbox/design.md`** whenever the task touches IH foundations, components, patterns, or DS rules documented there (default: skim relevant sections even for “brainstorm” prompts).
+1. Use **`DESIGN_AGENT_CORE.md`** as the baseline (already loaded). Read **`design-sandbox/design.md`** whenever the task needs IH foundations tables, specific component/messaging rules, or patterns not summarized in the core.
 2. Read `design-sandbox/personas/OVERVIEW.md` and any persona files the user names (or all primary personas if scope is broad).
 3. Read `design-sandbox/app-visual-language.md`. If sections are still placeholders, **say what is missing** and offer to draft concrete bullets for the user to approve — do not invent product facts silently.
 4. For visual or token fidelity beyond **`design.md`**, use **ih-figma-ds-visual-refs**: metadata → targeted `get_design_context` / `get_screenshot` batches (avoid dumping huge trees).
