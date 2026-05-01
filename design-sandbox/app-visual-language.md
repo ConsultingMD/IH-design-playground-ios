@@ -62,8 +62,13 @@ Drop sanitized screenshots or links to Figma **product** files (not only Anatomy
 
 | Screen / flow | Link or file |
 |---------------|----------------|
-| _(example: Home)_ | _(url)_ |
-| _(example: Messaging)_ | _(url)_ |
+| _(example: Home)_ | _(https://www.figma.com/design/PT38hXKcV0EBbbYygu0LE3/Homepage-2.0?node-id=21315-9105&t=dzzKTqTdtGHD5oM3-0)_ |
+| _(example: Dependent Picker from Dot home entry point)_ | _(https://www.figma.com/design/IsbGOKYwvvVi214VFgPRdA/Concierge-Dot--Find-A-Doctor?node-id=10791-27948&t=HV8gplg1OJZIK7gG-0)_ |
+_(example: Dot context gathering)_ | _(https://www.figma.com/design/IsbGOKYwvvVi214VFgPRdA/Concierge-Dot--Find-A-Doctor?node-id=6131-671&p=f&t=HV8gplg1OJZIK7gG-0)_ |
+_(example: Dot handoff to adaptive intake)_ | _(https://www.figma.com/design/IsbGOKYwvvVi214VFgPRdA/Concierge-Dot--Find-A-Doctor?node-id=6131-671&p=f&t=HV8gplg1OJZIK7gG-0)_ |
+_(example: Dot proider match searches)_ | _(https://www.figma.com/design/IsbGOKYwvvVi214VFgPRdA/Concierge-Dot--Find-A-Doctor?node-id=10741-23285&t=HV8gplg1OJZIK7gG-0)_ |
+_(example: pharmacy med cabinet)_ | _(https://www.figma.com/design/S1PuzSjVwCevjcEzrqEcg5/Medicine-Cabinet?node-id=15210-4755&t=dzzKTqTdtGHD5oM3-0)_ |
+_(example: pharmacy med details)_ | _(https://www.figma.com/design/S1PuzSjVwCevjcEzrqEcg5/Medicine-Cabinet?node-id=15225-8295&t=dzzKTqTdtGHD5oM3-0)_ |
 
 ---
 
