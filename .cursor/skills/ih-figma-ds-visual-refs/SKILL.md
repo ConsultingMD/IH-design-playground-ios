@@ -11,7 +11,11 @@ description: >-
 
 ## Goal
 
-Gather **relevant** visual references from the canonical IH Design System file so implementation or docs match the source of truth in Figma.
+Gather **relevant** visual references from the canonical IH Design System file so implementation or docs match Anatomy.
+
+## Relationship to `design-sandbox/design.md`
+
+In **this repo**, the written spec **`design-sandbox/design.md`** is the **first** source of truth for principles, foundations, components, patterns, and agent rules that are documented there (including curated Anatomy URLs). Use **this skill + Figma MCP** when you need **visual** proof, screenshots, layout detail, Code Connect, or nodes **not** covered in **`design.md`**. If **`design.md`** specifies a rule or token name, align with it; use Figma to validate or extend—not to override documented prose without calling out a conflict.
 
 ## Canonical file (do not guess)
 

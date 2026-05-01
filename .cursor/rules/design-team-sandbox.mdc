@@ -7,12 +7,14 @@ alwaysApply: true
 
 This repo is a **design-team sandbox**. When helping with layout, flows, components, copy, or UX experiments:
 
-1. **Design system** — Prefer the canonical **Anatomy – IH Design System** Figma file and the **ih-figma-ds-visual-refs** skill (official Figma MCP: `get_metadata`, `get_design_context`, `get_screenshot`). Prefer semantic tokens and Code Connect hints over guessed hex or spacing. Use **`design-sandbox/design.md`** for written foundations, component guidance, and curated Figma URLs when the task touches tokens or patterns documented there.
+1. **Source of truth (always start here)** — Read **`design-sandbox/design.md`** first when the task involves IH design principles, foundations, components, patterns, or DS rules. Treat it as the authoritative **written** spec for this workspace; cite sections from it before improvising.
 
-2. **Personas** — Before recommending UX decisions, read summaries under `design-sandbox/personas/` (start with `OVERVIEW.md` and any persona files present).
+2. **Figma / Anatomy (visual and gaps)** — After **`design.md`**, use the canonical **Anatomy – IH Design System** file via **ih-figma-ds-visual-refs** (official Figma MCP: `get_metadata`, `get_design_context`, `get_screenshot`) for visuals, variants, undiscovered nodes, and Code Connect. Prefer semantic tokens and Code Connect hints over guessed hex or spacing. If **`design.md`** and Figma disagree, flag the conflict for a human; default to **`design.md`** for prose rules stated only there.
 
-3. **Look and feel** — Align tone, density, navigation, and patterns with `design-sandbox/app-visual-language.md`. If that file is still a template, say what is missing and suggest concrete edits rather than assuming product specifics.
+3. **Personas** — Before recommending UX decisions, read summaries under `design-sandbox/personas/` (start with `OVERVIEW.md` and any persona files present).
 
-4. **Scope** — Favor small, testable experiments (clear scenario, success criteria, DS citations). Avoid large speculative refactors unless the user asks for them.
+4. **Look and feel** — Align tone, density, navigation, and product-specific notes with `design-sandbox/app-visual-language.md`. If that file is still a template, say what is missing and suggest concrete edits rather than assuming product specifics.
 
-5. **Privacy** — Do not paste secrets or PHI into repo files; keep sandbox content design-safe.
+5. **Scope** — Favor small, testable experiments (clear scenario, success criteria, DS citations). Avoid large speculative refactors unless the user asks for them.
+
+6. **Privacy** — Do not paste secrets or PHI into repo files; keep sandbox content design-safe.
