@@ -56,7 +56,9 @@ Our system sets strong foundations while allowing flexibility where it matters. 
 
 ## Brand Assets 
 
-### Figma (Brand Assets \- Foundations) ([https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=3880-99586&p=f&t=NTm7uNidWw2XAsH0-0](https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=3880-99586&p=f&t=NTm7uNidWw2XAsH0-0))
+### Figma (Brand Assets \- Foundations)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=3880-99586&p=f&t=NTm7uNidWw2XAsH0-0
 
 ---
 
@@ -64,9 +66,9 @@ Our system sets strong foundations while allowing flexibility where it matters. 
 
 ### Figma (Colors \- Foundations) 
 
-* (Accessible color combinations) ([https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35945-20138&t=wsnXwl8rOJXa2DXu-0](https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35945-20138&t=wsnXwl8rOJXa2DXu-0))  
-* (Colors) ([https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35809-24633&t=wsnXwl8rOJXa2DXu-0](https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35809-24633&t=wsnXwl8rOJXa2DXu-0))  
-* (Semantic Color Tokens) ([https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=11435-125594&t=wsnXwl8rOJXa2DXu-0](https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=11435-125594&t=wsnXwl8rOJXa2DXu-0))
+* (Accessible color combinations) https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35945-20138&t=wsnXwl8rOJXa2DXu-0  
+* (Colors) https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35809-24633&t=wsnXwl8rOJXa2DXu-0  
+* (Semantic Color Tokens) https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=11435-125594&t=wsnXwl8rOJXa2DXu-0
 
 ### Guidance
 
@@ -396,13 +398,15 @@ Rules:
 
 ## Typography
 
-Figma (Typography \- Foundations) ([https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=179-103847&p=f&t=PuN4Sj7ZnYpcLUVu-0](https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=179-103847&p=f&t=PuN4Sj7ZnYpcLUVu-0))
+### Figma (Typography \- Foundations)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=179-103847&p=f&t=PuN4Sj7ZnYpcLUVu-0
 
 ### Font family
 
 **Figtree** is a clean yet friendly geometric sans serif font for usage in web and mobile apps. Included Health uses Figtree across both print and digital surfaces in marketing and member-facing apps.
 
-Reference: [https://fonts.google.com/specimen/Figtree/about](https://fonts.google.com/specimen/Figtree/about)
+Reference: https://fonts.google.com/specimen/Figtree/about
 
 ### Supported weights
 
@@ -444,7 +448,9 @@ Reference: [https://fonts.google.com/specimen/Figtree/about](https://fonts.googl
 
 ## Spacing
 
-### Figma (Default screen margins \- Foundations) ([https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=19445-142469&t=wsnXwl8rOJXa2DXu-0](https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=19445-142469&t=wsnXwl8rOJXa2DXu-0))
+### Figma (Default screen margins \- Foundations)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=19445-142469&t=wsnXwl8rOJXa2DXu-0
 
 ### Guidance
 
@@ -525,7 +531,9 @@ Treat the main spacing scale table (with rem and pixel values) as the single sou
 
 ## Elevation
 
-### Figma (Elevation \- Foundations) ([https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=2508-97995&p=f&t=wsnXwl8rOJXa2DXu-0](https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=2508-97995&p=f&t=wsnXwl8rOJXa2DXu-0))
+### Figma (Elevation \- Foundations)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=2508-97995&p=f&t=wsnXwl8rOJXa2DXu-0
 
 ### Guidance
 
@@ -575,7 +583,7 @@ Do not introduce new custom box-shadow values in product UI.
 
 ### Figma (Illustrations \- Foundations) 
 
-([https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=3880-180231&p=f&t=NTm7uNidWw2XAsH0-0](https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=3880-180231&p=f&t=NTm7uNidWw2XAsH0-0))
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=3880-180231&p=f&t=NTm7uNidWw2XAsH0-0
 
 ---
 
@@ -583,7 +591,7 @@ Do not introduce new custom box-shadow values in product UI.
 
 ### Figma (Icons \- Foundations) 
 
-[https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=2069-97841&p=f&t=NTm7uNidWw2XAsH0-0](https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=2069-97841&p=f&t=NTm7uNidWw2XAsH0-0)
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=2069-97841&p=f&t=NTm7uNidWw2XAsH0-0
 
 Icons provide quick, scannable cues for meaning and status. They should clarify actions and information, not decorate or add noise. Use icons consistently across platforms so they feel like a single, coherent set.
 
@@ -735,17 +743,17 @@ Usage notes:
 
 ## Accordion
 
-### Figma (Accordion \- Components) 
+### Figma (Accordion \- Components)
 
-### (figma url)
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ---
 
 ## Accumulator
 
-### Figma (Accumulator \- Components) 
+### Figma (Accumulator \- Components)
 
-### (figma url)
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ---
 
@@ -811,9 +819,9 @@ Do not mix multiple, competing meanings in a single avatar (for example, both Do
 
 ## Badges
 
-### Figma (Badges \- Components) 
+### Figma (Badges \- Components)
 
-### (figma url)
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -943,9 +951,9 @@ Badges should be small and unobtrusive but high enough contrast to be visible.
 
 ## Banner Provider
 
-### Figma (Banner Provider \- Components) 
+### Figma (Banner Provider \- Components)
 
-### (figma url)
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -953,9 +961,9 @@ Badges should be small and unobtrusive but high enough contrast to be visible.
 
 ## Bottom Tab Bar
 
-### Figma (Bottom Tab Bar \- Components) 
+### Figma (Bottom Tab Bar \- Components)
 
-### (figma url)
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=7959-112652
 
 ### Guidance
 
@@ -963,9 +971,9 @@ Badges should be small and unobtrusive but high enough contrast to be visible.
 
 ## Button
 
-### Figma (Button \- Components) 
+### Figma (Button \- Components)
 
-### (figma url)
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -973,9 +981,9 @@ Badges should be small and unobtrusive but high enough contrast to be visible.
 
 ## Button Dock
 
-### Figma (Button Dock \- Components) 
+### Figma (Button Dock \- Components)
 
-### (figma url)
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -983,9 +991,9 @@ Badges should be small and unobtrusive but high enough contrast to be visible.
 
 ## Calendar 
 
-### Figma (Calendar \- Components) 
+### Figma (Calendar \- Components)
 
-### (figma url)
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -993,7 +1001,9 @@ Badges should be small and unobtrusive but high enough contrast to be visible.
 
 ## Card
 
-### Figma (Card \- Components) 
+### Figma (Card \- Components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -1001,9 +1011,9 @@ Badges should be small and unobtrusive but high enough contrast to be visible.
 
 ## Card Carousel
 
-### Figma (Card Carousel \- Components) 
+### Figma (Card Carousel \- Components)
 
-### (figma url)
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -1011,9 +1021,9 @@ Badges should be small and unobtrusive but high enough contrast to be visible.
 
 ## Carousel
 
-### Figma (Carousel \- Components) 
+### Figma (Carousel \- Components)
 
-### (figma url)
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -1021,9 +1031,9 @@ Badges should be small and unobtrusive but high enough contrast to be visible.
 
 ## Care Filters
 
-### Figma (Care Filters \- Components) 
+### Figma (Care Filters \- Components)
 
-### (figma url)
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -1031,9 +1041,9 @@ Badges should be small and unobtrusive but high enough contrast to be visible.
 
 ## Check Box
 
-### Figma (Check Box \- Components) 
+### Figma (Check Box \- Components)
 
-### (figma url)
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -1041,9 +1051,9 @@ Badges should be small and unobtrusive but high enough contrast to be visible.
 
 ## Chips
 
-### Figma (Chips \- Components) 
+### Figma (Chips \- Components)
 
-### (figma url)
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -1051,9 +1061,9 @@ Badges should be small and unobtrusive but high enough contrast to be visible.
 
 ## Contact Module
 
-### Figma (Contact Module \- Components) 
+### Figma (Contact Module \- Components)
 
-### (figma url)
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -1061,9 +1071,9 @@ Badges should be small and unobtrusive but high enough contrast to be visible.
 
 ## Coverage Module
 
-### Figma (Coverage Module \- Components) 
+### Figma (Coverage Module \- Components)
 
-### (figma url)
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -1071,9 +1081,9 @@ Badges should be small and unobtrusive but high enough contrast to be visible.
 
 ## Date Input
 
-### Figma (Data Input \- Components) 
+### Figma (Data Input \- Components)
 
-### (figma url)
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -1081,9 +1091,9 @@ Badges should be small and unobtrusive but high enough contrast to be visible.
 
 ## Dependent Picker
 
-### Figma (Dependent Picker \- Components) 
+### Figma (Dependent Picker \- Components)
 
-### (figma url)
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -1091,9 +1101,9 @@ Badges should be small and unobtrusive but high enough contrast to be visible.
 
 ## Dividers
 
-### Figma (Dividers \- Components) 
+### Figma (Dividers \- Components)
 
-### (figma url)
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -1101,9 +1111,9 @@ Badges should be small and unobtrusive but high enough contrast to be visible.
 
 ## Dropdown
 
-### Figma (Dropdown \- Components) 
+### Figma (Dropdown \- Components)
 
-### (figma url)
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -1111,9 +1121,9 @@ Badges should be small and unobtrusive but high enough contrast to be visible.
 
 ## Fair Price Indicator
 
-### Figma (Fair Price Indicator \- Components) 
+### Figma (Fair Price Indicator \- Components)
 
-### (figma url)
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -1121,9 +1131,9 @@ Badges should be small and unobtrusive but high enough contrast to be visible.
 
 ## Footer
 
-### Figma (Footer \- Components) 
+### Figma (Footer \- Components)
 
-### (figma url)
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -1216,7 +1226,9 @@ Both variants:
 
 ## Link
 
-### Figma (Link \- Components) (figma url)
+### Figma (Link \- Components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -1224,7 +1236,9 @@ Both variants:
 
 ## List Item
 
-### Figma (List Item \- Components) (figma url)
+### Figma (List Item \- Components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -1232,7 +1246,9 @@ Both variants:
 
 ## Loader
 
-### Figma (Loader \- Components) (figma url)
+### Figma (Loader \- Components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -1240,7 +1256,9 @@ Both variants:
 
 ## Map
 
-### Figma (Map \- Components) (figma url)
+### Figma (Map \- Components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -1248,7 +1266,9 @@ Both variants:
 
 ## Maximum Summary
 
-### Figma (Maximum Summary \- Components) (figma url)
+### Figma (Maximum Summary \- Components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -1260,13 +1280,19 @@ Messaging is a first‑class surface at Included Health. These components work t
 
 ## Responses \- messaging components
 
-### Figma 
+### Figma (Responses)
 
-### (Response \- Dot) ([https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=37591-13278&t=8DpKilIj2rTEt657-0](https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=37591-13278&t=8DpKilIj2rTEt657-0))
+### (Response \- Dot)
 
-### (Response \- Care Team) ([https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=37750-3025&t=8DpKilIj2rTEt657-0](https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=37750-3025&t=8DpKilIj2rTEt657-0))
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=37591-13278&t=8DpKilIj2rTEt657-0
 
-### (Response \- Member) ([https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=37750-3077&t=8DpKilIj2rTEt657-0](https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=37750-3077&t=8DpKilIj2rTEt657-0))
+### (Response \- Care Team)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=37750-3025&t=8DpKilIj2rTEt657-0
+
+### (Response \- Member)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=37750-3077&t=8DpKilIj2rTEt657-0
 
 ### Guidance
 
@@ -1319,7 +1345,9 @@ Dot responses are the core message pattern for conversations between the member,
 
 ## Disclaimer \- messaging components
 
-### Figma (Disclaimer \- messaging components) 
+### Figma (Disclaimer \- messaging components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=39941-4592
 
 ### Guidance
 
@@ -1353,9 +1381,9 @@ The Dot disclaimer communicates the limitations of Dot’s AI‑generated respon
 
 ## Timestamp & new message indicator \- messaging components
 
-### Figma (Timestamp & new message indicator \- messaging components) 
+### Figma (Timestamp & new message indicator \- messaging components)
 
-### (figma url)
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=39933-13635
 
 ### Guidance
 
@@ -1399,7 +1427,9 @@ These elements give members temporal context and highlight when new messages arr
 
 ## Issue / Topic input \- messaging components
 
-### Figma (Issue / Topic input \- messaging components) (figma url)
+### Figma (Issue / Topic input \- messaging components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=40087-4772
 
 ### Guidance
 
@@ -1449,7 +1479,9 @@ The Issue / Topic input is the first step in a Dot conversation where the member
 
 ## Participant joined system message \- messaging components
 
-### Figma (Participant joined system message \- messaging components) (figma url)
+### Figma (Participant joined system message \- messaging components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=39941-4852
 
 ### Guidance
 
@@ -1495,7 +1527,9 @@ Copy must identify who joined and/or their role when known.
 
 ## “Jump to latest” icon button \- messaging components
 
-### Figma (“Jump to latest” icon button \- messaging components) (figma url)
+### Figma (“Jump to latest” icon button \- messaging components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=40087-5105
 
 ### Guidance
 
@@ -1538,7 +1572,9 @@ System‑generated control to help members quickly return to the most recent mes
 
 ### Quick replies \- messaging components
 
-## Figma (quick replies \- messaging components) (figma url)
+### Figma (quick replies \- messaging components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=39982-4739
 
 ### Guidance
 
@@ -1607,7 +1643,9 @@ Quick replies are suggested responses members can tap instead of typing.
 
 ## Multi‑select chips \- messaging components
 
-### Figma (multi-select chips \- messaging components) (figma url)
+### Figma (multi-select chips \- messaging components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=40041-4594
 
 ### Guidance
 
@@ -1683,7 +1721,9 @@ Multi‑select chips let members select more than one option at a time.
 
 ## Service cards \- messaging components
 
-### Figma (Service cards \- messaging components) (figma url)
+### Figma (Service cards \- messaging components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=40100-4931
 
 ### Guidance
 
@@ -1750,7 +1790,9 @@ Service cards surface high‑value services or flows (for example, urgent care, 
 
 ## Option cards \- messaging components
 
-### Figma (Option cards \- messaging components)(figma url)
+### Figma (Option cards \- messaging components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=38198-26243
 
 ### Guidance
 
@@ -1816,7 +1858,9 @@ Cards are usually shown as a row of 2–3.
 
 ## Preview cards \- messaging components
 
-### Figma (Preview cards \- messaging components)(figma url)
+### Figma (Preview cards \- messaging components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=40102-4911
 
 ### Guidance
 
@@ -1884,7 +1928,9 @@ Preview cards surface concise snapshots of recommended providers or services dir
 
 ## Load more card \- messaging components
 
-### Figma (Load more cards \- messaging components)(figma url)
+### Figma (Load more cards \- messaging components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=40102-6926
 
 ### Guidance
 
@@ -1926,7 +1972,9 @@ Appears at the end of a carousel to surface additional results without navigatin
 
 ## Visit confirmation card \- messaging components
 
-### Figma (Visit confirmation cards \- messaging components)(figma url)
+### Figma (Visit confirmation cards \- messaging components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=40102-7548
 
 ### Guidance
 
@@ -2019,13 +2067,17 @@ Summarizes a scheduled visit directly in the conversation.
 
 ## Sheet \- messaging components
 
-### Figma (Sheet \- components)(figma url)
+### Figma (Sheet \- components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=38187-17346
 
 ---
 
 ## Modals
 
-### Figma (Modals \- Components) (figma url)
+### Figma (Modals \- Components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -2033,7 +2085,9 @@ Summarizes a scheduled visit directly in the conversation.
 
 ## Navigation Drawer (Web)
 
-### Figma (Navigation Drawer (Web) \- Components) (figma url)
+### Figma (Navigation Drawer (Web) \- Components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=12134-1888
 
 ### Guidance
 
@@ -2041,7 +2095,9 @@ Summarizes a scheduled visit directly in the conversation.
 
 ## Navigation Primary (Web)
 
-### Figma (Navigation Primary (Web) \- Components) (figma url)
+### Figma (Navigation Primary (Web) \- Components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=0-1
 
 ### Guidance
 
@@ -2049,7 +2105,9 @@ Summarizes a scheduled visit directly in the conversation.
 
 ## Navigation Secondary (Native)
 
-### Figma (Navigation Secondary (Native) \- Components) (figma url)
+### Figma (Navigation Secondary (Native) \- Components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=36992-16372
 
 ### Guidance
 
@@ -2057,7 +2115,9 @@ Summarizes a scheduled visit directly in the conversation.
 
 ## Navigation Utility 
 
-### Figma (Navigation Utility \- Components) (figma url)
+### Figma (Navigation Utility \- Components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=38022-4028
 
 ### Guidance
 
@@ -2065,7 +2125,9 @@ Summarizes a scheduled visit directly in the conversation.
 
 ## New Message Indicator
 
-### Figma (New Message Indicator \- Components) (figma url)
+### Figma (New Message Indicator \- Components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=36992-16361
 
 ### Guidance
 
@@ -2073,7 +2135,9 @@ Summarizes a scheduled visit directly in the conversation.
 
 ## Option Button
 
-### Figma (Option Button \- Components) (figma url)
+### Figma (Option Button \- Components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -2081,7 +2145,9 @@ Summarizes a scheduled visit directly in the conversation.
 
 ## Payments
 
-### Figma (Payments \- Components) (figma url)
+### Figma (Payments \- Components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -2089,7 +2155,9 @@ Summarizes a scheduled visit directly in the conversation.
 
 ## Pharmacy Card
 
-### Figma (Pharmacy Card \- Components) (figma url)
+### Figma (Pharmacy Card \- Components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -2097,7 +2165,9 @@ Summarizes a scheduled visit directly in the conversation.
 
 ## Photo Hero
 
-### Figma (Photo Hero \- Components) (figma url)
+### Figma (Photo Hero \- Components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -2105,7 +2175,9 @@ Summarizes a scheduled visit directly in the conversation.
 
 ## Phone Input
 
-### Figma (Phone Input \- Components) (figma url)
+### Figma (Phone Input \- Components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -2113,7 +2185,9 @@ Summarizes a scheduled visit directly in the conversation.
 
 ## Progress Bar
 
-### Figma (Progress Bar \- Components) (figma url)
+### Figma (Progress Bar \- Components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -2121,7 +2195,9 @@ Summarizes a scheduled visit directly in the conversation.
 
 ## Promo Bullets
 
-### Figma (Promo Bullets \- Components) (figma url)
+### Figma (Promo Bullets \- Components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -2129,7 +2205,9 @@ Summarizes a scheduled visit directly in the conversation.
 
 ## Radio Button
 
-### Figma (Radio Button \- Components) (figma url)
+### Figma (Radio Button \- Components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -2137,7 +2215,9 @@ Summarizes a scheduled visit directly in the conversation.
 
 ## Star Rating
 
-### Figma (Star Rating \- Components) (figma url)
+### Figma (Star Rating \- Components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -2145,7 +2225,9 @@ Summarizes a scheduled visit directly in the conversation.
 
 ## Search Field
 
-### Figma (Search Field \- Components) (figma url)
+### Figma (Search Field \- Components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -2153,7 +2235,9 @@ Summarizes a scheduled visit directly in the conversation.
 
 ## Secondary Navigation
 
-### Figma (Secondary Navigation \- Components) (figma url)
+### Figma (Secondary Navigation \- Components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -2161,7 +2245,9 @@ Summarizes a scheduled visit directly in the conversation.
 
 ## Segmented Button
 
-### Figma (Segmented Button \- Components) (figma url)
+### Figma (Segmented Button \- Components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -2169,7 +2255,9 @@ Summarizes a scheduled visit directly in the conversation.
 
 ## Sheet
 
-### Figma (Sheet \- Components) (figma url)
+### Figma (Sheet \- Components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=38187-17346
 
 ### Guidance
 
@@ -2177,7 +2265,9 @@ Summarizes a scheduled visit directly in the conversation.
 
 ## Skeleton Loader
 
-### Figma (Skeleton Loader \- Components) (figma url)
+### Figma (Skeleton Loader \- Components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -2185,7 +2275,9 @@ Summarizes a scheduled visit directly in the conversation.
 
 ## Slider
 
-### Figma (Slider \- Components) (figma url)
+### Figma (Slider \- Components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -2193,7 +2285,9 @@ Summarizes a scheduled visit directly in the conversation.
 
 ## Pharmacy Card
 
-### Figma (Pharmacy Card \- Components) (figma url)
+### Figma (Pharmacy Card \- Components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -2201,7 +2295,9 @@ Summarizes a scheduled visit directly in the conversation.
 
 ## SMS Verification 
 
-### Figma (SMS Verification \- Components) (figma url)
+### Figma (SMS Verification \- Components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -2209,7 +2305,9 @@ Summarizes a scheduled visit directly in the conversation.
 
 ## Table
 
-### Figma (Table \- Components) (figma url)
+### Figma (Table \- Components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -2217,7 +2315,9 @@ Summarizes a scheduled visit directly in the conversation.
 
 ## Tabs
 
-### Figma (Tabs \- Components) (figma url)
+### Figma (Tabs \- Components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -2225,7 +2325,9 @@ Summarizes a scheduled visit directly in the conversation.
 
 ## Text Area
 
-### Figma (Text Area \- Components) (figma url)
+### Figma (Text Area \- Components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -2233,7 +2335,9 @@ Summarizes a scheduled visit directly in the conversation.
 
 ## Text Field
 
-### Figma (Text Field \- Components) (figma url)
+### Figma (Text Field \- Components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -2241,7 +2345,9 @@ Summarizes a scheduled visit directly in the conversation.
 
 ## Title
 
-### Figma (Title \- Components) (figma url)
+### Figma (Title \- Components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -2249,7 +2355,9 @@ Summarizes a scheduled visit directly in the conversation.
 
 ## Timeline 
 
-### Figma (Timeline \- Components) (figma url)
+### Figma (Timeline \- Components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -2257,7 +2365,9 @@ Summarizes a scheduled visit directly in the conversation.
 
 ## Toast
 
-### Figma (Toast \- Components) (figma url)
+### Figma (Toast \- Components)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -2267,7 +2377,9 @@ Summarizes a scheduled visit directly in the conversation.
 
 ## Forms
 
-### Figma (Form \- Patterns) (Figma url)
+### Figma (Form \- Patterns)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=19445-142469
 
 ### Guidance
 
@@ -2340,7 +2452,9 @@ Use **Validate on submit** by default, with Live/Guided validation when it clear
 
 ## Empty states
 
-### Figma (Empty States \- Patterns) (Figma url)
+### Figma (Empty States \- Patterns)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -2372,7 +2486,9 @@ Empty states clarify where content could exist, but currently does not. Unlike e
 
 ## Success states
 
-### Figma (Success States \- Patterns) (Figma url)
+### Figma (Success States \- Patterns)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
@@ -2404,7 +2520,9 @@ Success states are discrete steps in a flow—usually longer or higher‑effort 
 
 ## Error states
 
-### Figma (Error States \- Patterns) (Figma url)
+### Figma (Error States \- Patterns)
+
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=35928-17750
 
 ### Guidance
 
