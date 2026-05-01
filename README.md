@@ -18,11 +18,12 @@ This repo is set up so designers can **experiment in Cursor** with consistent co
 |----------|----------|
 | **Agent defaults** (what the AI should assume) | [`AGENTS.md`](AGENTS.md) |
 | **Always-on guidance** | [`.cursor/rules/design-team-sandbox.mdc`](.cursor/rules/design-team-sandbox.mdc) |
+| **Design system spec** (principles, foundations, components, patterns) | [`design-sandbox/design.md`](design-sandbox/design.md) |
 | **Personas + visual language hub** | [`design-sandbox/README.md`](design-sandbox/README.md) |
 | **App look & feel** (fill in for your product) | [`design-sandbox/app-visual-language.md`](design-sandbox/app-visual-language.md) |
 | **Exploration playbook skill** | [`.cursor/skills/ih-design-sandbox-context/SKILL.md`](.cursor/skills/ih-design-sandbox-context/SKILL.md) |
 
-**Setup for your team:** (1) Replace placeholders in `design-sandbox/app-visual-language.md` and `design-sandbox/personas/` with real IH content. (2) Grant repo access and ensure **Figma MCP** is authenticated for Anatomy. (3) Optional: add SwiftUI or other prototype code later and extend rules with file globs.
+**Setup for your team:** (1) Keep `design-sandbox/design.md` aligned with Anatomy and your working norms. (2) Replace placeholders in `design-sandbox/app-visual-language.md` and `design-sandbox/personas/` with real IH content as needed. (3) Grant repo access and ensure **Figma MCP** is authenticated for Anatomy. (4) Optional: add SwiftUI or other prototype code later and extend rules with file globs.
 
 ---
 

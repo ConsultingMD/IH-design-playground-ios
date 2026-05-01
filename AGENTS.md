@@ -7,11 +7,13 @@ This workspace is a **sandbox for design exploration** in Cursor. Treat it as th
 1. **Design system (Figma)** — Canonical file and MCP workflow live in  
    `.cursor/skills/ih-figma-ds-visual-refs/SKILL.md`. Use the official Figma MCP for metadata, design context, and screenshots; do not invent tokens when Figma or Code Connect provides names.
 
-2. **Personas** — Human-readable summaries live under `design-sandbox/personas/`. Read these before judging flows, copy tone, or accessibility tradeoffs.
+2. **Design system (written spec)** — `design-sandbox/design.md` consolidates principles, foundations (color, typography, spacing, elevation), Anatomy deep links, components, patterns, and agent-facing rules. Prefer it for token names and guidance before improvising.
 
-3. **App look and feel** — `design-sandbox/app-visual-language.md` describes navigation patterns, density, motion, and how the live app should *feel*. Update that file as the product evolves so the sandbox stays accurate.
+3. **Personas** — Human-readable summaries live under `design-sandbox/personas/`. Read these before judging flows, copy tone, or accessibility tradeoffs.
 
-4. **Exploratory work** — For open-ended “what if” tasks, follow  
+4. **App look and feel** — `design-sandbox/app-visual-language.md` describes navigation patterns, density, motion, and how the live app should *feel*. Update that file as the product evolves so the sandbox stays accurate.
+
+5. **Exploratory work** — For open-ended “what if” tasks, follow  
    `.cursor/skills/ih-design-sandbox-context/SKILL.md` so outputs stay comparable and reviewable.
 
 ## What designers typically do here

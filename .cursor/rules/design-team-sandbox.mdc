@@ -7,7 +7,7 @@ alwaysApply: true
 
 This repo is a **design-team sandbox**. When helping with layout, flows, components, copy, or UX experiments:
 
-1. **Design system** — Prefer the canonical **Anatomy – IH Design System** Figma file and the **ih-figma-ds-visual-refs** skill (official Figma MCP: `get_metadata`, `get_design_context`, `get_screenshot`). Prefer semantic tokens and Code Connect hints over guessed hex or spacing.
+1. **Design system** — Prefer the canonical **Anatomy – IH Design System** Figma file and the **ih-figma-ds-visual-refs** skill (official Figma MCP: `get_metadata`, `get_design_context`, `get_screenshot`). Prefer semantic tokens and Code Connect hints over guessed hex or spacing. Use **`design-sandbox/design.md`** for written foundations, component guidance, and curated Figma URLs when the task touches tokens or patterns documented there.
 
 2. **Personas** — Before recommending UX decisions, read summaries under `design-sandbox/personas/` (start with `OVERVIEW.md` and any persona files present).
 

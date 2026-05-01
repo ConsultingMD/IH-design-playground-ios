@@ -14,14 +14,16 @@ description: >-
 Keep **open-ended** design work reviewable and on-brand by chaining:
 
 1. **Personas** (`design-sandbox/personas/`)
-2. **Visual language** (`design-sandbox/app-visual-language.md`)
-3. **Design system** (skill **ih-figma-ds-visual-refs** + official Figma MCP)
+2. **Written DS spec** (`design-sandbox/design.md`) — tokens, components, patterns, curated Anatomy links
+3. **Visual language** (`design-sandbox/app-visual-language.md`)
+4. **Design system** (skill **ih-figma-ds-visual-refs** + official Figma MCP)
 
 ## Before proposing solutions
 
 1. Read `design-sandbox/personas/OVERVIEW.md` and any persona files the user names (or all primary personas if scope is broad).
-2. Read `design-sandbox/app-visual-language.md`. If sections are still placeholders, **say what is missing** and offer to draft concrete bullets for the user to approve — do not invent product facts silently.
-3. For visual or token fidelity, use **ih-figma-ds-visual-refs**: metadata → targeted `get_design_context` / `get_screenshot` batches (avoid dumping huge trees).
+2. Read `design-sandbox/design.md` when the task touches foundations, components, or patterns documented there.
+3. Read `design-sandbox/app-visual-language.md`. If sections are still placeholders, **say what is missing** and offer to draft concrete bullets for the user to approve — do not invent product facts silently.
+4. For visual or token fidelity beyond the written spec, use **ih-figma-ds-visual-refs**: metadata → targeted `get_design_context` / `get_screenshot` batches (avoid dumping huge trees).
 
 ## How to structure outputs
 
