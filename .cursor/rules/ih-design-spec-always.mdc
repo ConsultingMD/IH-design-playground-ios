@@ -1,0 +1,19 @@
+---
+description: Always include design-sandbox/design.md — written IH DS source of truth for this repo
+alwaysApply: true
+---
+
+# IH design spec — always in context
+
+This playground treats **`design-sandbox/design.md`** as the **canonical written** Included Health design-system reference for principles, foundations, tokens, components, patterns, and agent-facing rules.
+
+**Included file (keep in Agent context):**
+
+@design-sandbox/design.md
+
+**How to use it**
+
+- Prefer **`design.md`** over memory for anything covered there (colors, type, spacing, components, messaging patterns, etc.).
+- Use **Figma MCP** / **ih-figma-ds-visual-refs** when you need Anatomy visuals, screenshots, variants, or detail **not** spelled out in **`design.md`**.
+- Layer **`design-sandbox/app-visual-language.md`** and **`design-sandbox/personas/`** for product-specific feel and audience; do not duplicate long DS prose from **`design.md`** into those files.
+- If **`design.md`** and Figma appear to conflict, call it out and default to the **written** rule in **`design.md`** unless the user resolves otherwise.

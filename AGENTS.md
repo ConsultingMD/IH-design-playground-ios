@@ -2,6 +2,8 @@
 
 This workspace is a **sandbox for design exploration** in Cursor. Treat it as the shared starting point for experiments that should still align with the Included Health design system, defined personas, and product visual language.
 
+**Always-applied rule:** `.cursor/rules/ih-design-spec-always.mdc` pulls **`design-sandbox/design.md`** into Agent context via `@` so every chat starts from the written DS spec.
+
 ## Ground truth (use in order)
 
 1. **Written design spec (source of truth for this repo)** — Always start with **`design-sandbox/design.md`** for principles, foundations (color, typography, spacing, elevation), components, patterns, agent-facing rules, and curated Anatomy deep links. If guidance exists there, follow it before improvising or pulling from memory.
