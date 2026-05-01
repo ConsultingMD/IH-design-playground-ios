@@ -753,7 +753,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Accumulator \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=39232-1748
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=39232-1707&t=07wm7kk9ADyH37RD-0
 
 ---
 
@@ -823,7 +823,7 @@ Do not mix multiple, competing meanings in a single avatar (for example, both Do
 
 ### Figma (Badges \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=22114-970
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=36683-10420&t=Lst0Vinl5UEXPSHH-0
 
 ### Guidance
 
@@ -956,6 +956,7 @@ Badges should be small and unobtrusive but high enough contrast to be visible.
 ### Figma (Banner Provider \- Components)
 
 https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=36992-21635
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=36992-21646&t=93M1bdxnETYR26o1-0
 
 ### Guidance
 
@@ -965,7 +966,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Bottom Tab Bar \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=16905-20280
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=13628-48873&p=f&t=QrUBk2kHJ0FiaxPR-0
 
 ### Guidance
 
@@ -975,7 +976,7 @@ https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?no
 
 ### Figma (Button \- Components)
 
-https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=37970-12696
+https://www.figma.com/design/VT79VSlhYlpl0g2JS9vLKt/Anatomy--IH-Design-System?node-id=37970-6147&p=f&t=ghusywPV4XNZFecL-0
 
 ### Guidance
 
