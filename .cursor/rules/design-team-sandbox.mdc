@@ -9,7 +9,7 @@ This repo is a **design-team sandbox**. When helping with layout, flows, compone
 
 1. **Design system identity (always in context)** — **`design-sandbox/DESIGN_AGENT_CORE.md`** is attached via rule; use it so designers don’t restate basics. For **full** rules, tables, and long component/messaging copy, read **`design-sandbox/design.md`** when the task needs that depth (see **`DESIGN_AGENT_CORE.md`** → “When to open the full spec”).
 
-2. **Figma / Anatomy (visual and gaps)** — After **`design.md`**, use the canonical **Anatomy – IH Design System** file via **ih-figma-ds-visual-refs** (official Figma MCP: `get_metadata`, `get_design_context`, `get_screenshot`) for visuals, variants, undiscovered nodes, and Code Connect. Prefer semantic tokens and Code Connect hints over guessed hex or spacing. If **`design.md`** and Figma disagree, flag the conflict for a human; default to **`design.md`** for prose rules stated only there.
+2. **Figma / Anatomy (visual and gaps)** — Use the canonical **Anatomy – IH Design System** file via **ih-figma-ds-visual-refs** (official Figma MCP: `get_metadata`, `get_design_context`, `get_screenshot`) when you need visuals, variants, layout fidelity, undiscovered nodes, or Code Connect—especially when **`design.md`** does not spell out the detail. Prefer semantic tokens and Code Connect hints over guessed hex or spacing. If **`design.md`** and Figma disagree, flag the conflict for a human; default to **`design.md`** for prose rules stated only there.
 
 3. **Personas** — Before recommending UX decisions, read summaries under `design-sandbox/personas/` (start with `OVERVIEW.md` and any persona files present).
 

@@ -45,4 +45,4 @@ For each exploration deliverable:
 ## Related paths
 
 - Repo agent defaults: `AGENTS.md`
-- Always-on rule: `.cursor/rules/design-team-sandbox.mdc`
+- Always-on rules: `.cursor/rules/design-team-sandbox.mdc`, `.cursor/rules/ih-design-spec-always.mdc` (loads `DESIGN_AGENT_CORE.md`)
