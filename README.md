@@ -36,7 +36,7 @@ The Agent **always** loads the compact **[`DESIGN_AGENT_CORE.md`](design-sandbox
 | Exact layout / variants / screenshots | Paste an **Anatomy Figma** URL or ask for **ih-figma-ds-visual-refs**. |
 | Product nav / density / voice | **@** [`app-visual-language.md`](design-sandbox/app-visual-language.md). |
 
-**Full playbook** (prompt examples, @ tips, troubleshooting): [`design-sandbox/README.md` § Calling on the design system](design-sandbox/README.md#calling-on-the-design-system-designer-playbook).
+**Full playbook** (prompt examples, @ tips, troubleshooting): [`design-sandbox/README.md` — Designer playbook](design-sandbox/README.md#designer-playbook-calling-on-the-design-system).
 
 ---
 

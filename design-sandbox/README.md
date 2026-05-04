@@ -26,7 +26,7 @@ Use this folder as the **single hub** for context the agent should load when you
 
 ---
 
-## Calling on the design system (designer playbook)
+## Designer playbook: calling on the design system
 
 You do **not** need to paste the whole design system into every chat. The Agent already loads **`DESIGN_AGENT_CORE.md`**. Your job is to **signal depth** when you need it.
 
