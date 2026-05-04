@@ -25,6 +25,19 @@ This repo is set up so designers can **experiment in Cursor** with consistent co
 
 **Setup for your team:** (1) Keep `design-sandbox/design.md` aligned with Anatomy and your working norms. (2) Replace placeholders in `design-sandbox/app-visual-language.md` and `design-sandbox/personas/` with real IH content as needed. (3) Grant repo access and ensure **Figma MCP** is authenticated for Anatomy. (4) Optional: add SwiftUI or other prototype code later and extend rules with file globs.
 
+### For designers: calling on the DS effectively
+
+The Agent **always** loads the compact **[`DESIGN_AGENT_CORE.md`](design-sandbox/DESIGN_AGENT_CORE.md)** so you don’t re-teach basics. **Full detail** lives in **[`design.md`](design-sandbox/design.md)**—pull it when the task needs tables, per-component rules, or messaging copy.
+
+| Goal | What to do |
+|------|------------|
+| Quick ideas that should “feel like IH” | Plain language; optional **@** [`app-visual-language.md`](design-sandbox/app-visual-language.md) + personas. |
+| Tokens, spacing, forms, component rules | **@** [`design.md`](design-sandbox/design.md) or name the section (*“Forms validation in design.md”*). |
+| Exact layout / variants / screenshots | Paste an **Anatomy Figma** URL or ask for **ih-figma-ds-visual-refs**. |
+| Product nav / density / voice | **@** [`app-visual-language.md`](design-sandbox/app-visual-language.md). |
+
+**Full playbook** (prompt examples, @ tips, troubleshooting): [`design-sandbox/README.md` § Calling on the design system](design-sandbox/README.md#calling-on-the-design-system-designer-playbook).
+
 ---
 
 ## Cursor skill: IH Figma visual references
