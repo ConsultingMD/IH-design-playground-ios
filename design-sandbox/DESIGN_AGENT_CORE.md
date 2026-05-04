@@ -44,9 +44,10 @@ Included Health is an **AI‑first, human‑supported** clinical front door: **w
 
 ## Components (inventory)
 
-Use existing names when reasoning about UI; details and Figma nodes → **`design.md` → Components**.
+**Do not maintain a duplicate list here**—it will drift from **`design.md`**.
 
-Accordion, Accumulator, Avatar, Badge, Banner, Bottom Tab Bar (native), Button, Button Dock, Calendar, Card, Card Carousel, Care Filters, Checkbox, Contact Module, Date Input, Dependent Picker, Dropdown, Fair Price Indicator, Icon, Icon Button, Icon Container, Link, Loader, Map, Maximum Summary, Modal, Navigation (native), Navigation Drawer (web), Option Button, Photo Hero, Pill, Primary Navigation (web), Progress Bar, Promo Bullets, Radio, Search Field, Secondary Navigation, Segmented Button, Sheet, Skeleton Loader, Slider, Table, Tabs, Tag, Text Area, Text Field, Tile, Timeline, Toast.
+- **Canonical list:** **`design.md` → `# Components` → `### Component inventory`** (bullet list). Use that section whenever you need exact names or to check whether something is a first-class component.
+- **Behavior:** Prefer existing IH component names from that list; per-component guidance and Figma deep links live in the **`## [Name]`** sections under Components.
 
 ---
 
